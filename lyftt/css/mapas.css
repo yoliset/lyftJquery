@@ -1,0 +1,15 @@
+#icon{
+    margin-left: 5px;
+    padding: 10px;
+}
+#iconletras{
+    padding: 0px 100px;
+    border-radius: 12px;
+}
+p{
+    font-size: 12px;
+}
+a{
+    font-size: 10px;
+    color: darkgray;
+}
